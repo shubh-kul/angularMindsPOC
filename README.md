@@ -1,0 +1,2 @@
+# angularMindsPOC
+just a POC
